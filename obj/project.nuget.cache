@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MkElICUUY2s=",
+  "dgSpecHash": "lT1kk3eKJ7I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\ClinicaAPI\\ClinicaAPI\\ClinicaAPI.csproj",
+  "projectFilePath": "D:\\ClinicaAPI\\ClinicaAPI\\ClinicaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
